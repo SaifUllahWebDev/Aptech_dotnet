@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Aptech_DotNet\\Aptech_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1353F8B3-621F-462A-ACD7-9B48C98E382F}|Aptech_1\\Aptech_1.csproj|e:\\aptech_dotnet\\aptech_1\\aptech_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1353F8B3-621F-462A-ACD7-9B48C98E382F}|Aptech_1\\Aptech_1.csproj|solutionrelative:aptech_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Aptech_DotNet\\Aptech_1\\Aptech_1\\appsettings.json",
+              "RelativeDocumentMoniker": "Aptech_1\\appsettings.json",
+              "ToolTip": "E:\\Aptech_DotNet\\Aptech_1\\Aptech_1\\appsettings.json",
+              "RelativeToolTip": "Aptech_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T23:05:44.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
