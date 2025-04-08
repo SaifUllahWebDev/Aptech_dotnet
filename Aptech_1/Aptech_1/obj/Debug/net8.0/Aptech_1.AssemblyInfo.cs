@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aptech_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15807ad3e00ef56b778e631e4d2135f94ad4358e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aptech_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aptech_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

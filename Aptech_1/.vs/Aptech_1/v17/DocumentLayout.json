@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Aptech_DotNet\\Aptech_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1353F8B3-621F-462A-ACD7-9B48C98E382F}|Aptech_1\\Aptech_1.csproj|e:\\aptech_dotnet\\aptech_1\\aptech_1\\applicationdb\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1353F8B3-621F-462A-ACD7-9B48C98E382F}|Aptech_1\\Aptech_1.csproj|solutionrelative:aptech_1\\applicationdb\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1353F8B3-621F-462A-ACD7-9B48C98E382F}|Aptech_1\\Aptech_1.csproj|e:\\aptech_dotnet\\aptech_1\\aptech_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1353F8B3-621F-462A-ACD7-9B48C98E382F}|Aptech_1\\Aptech_1.csproj|solutionrelative:aptech_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Applicationdb.cs",
+              "DocumentMoniker": "E:\\Aptech_DotNet\\Aptech_1\\Aptech_1\\ApplicationDb\\Applicationdb.cs",
+              "RelativeDocumentMoniker": "Aptech_1\\ApplicationDb\\Applicationdb.cs",
+              "ToolTip": "E:\\Aptech_DotNet\\Aptech_1\\Aptech_1\\ApplicationDb\\Applicationdb.cs",
+              "RelativeToolTip": "Aptech_1\\ApplicationDb\\Applicationdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:11:57.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Aptech_DotNet\\Aptech_1\\Aptech_1\\appsettings.json",
               "RelativeDocumentMoniker": "Aptech_1\\appsettings.json",
